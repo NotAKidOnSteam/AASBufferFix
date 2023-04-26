@@ -1,3 +1,6 @@
+# Notice:
+Repo has been archived & contents have been merged to https://github.com/NotAKidOnSteam/NAK_CVR_Mods
+
 # AASBufferFix
  
 Fixes two issues with the Avatar Advanced Settings buffers when loading remote avatars:
